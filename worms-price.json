@@ -1,14 +1,14 @@
 [
     {
         "type": "common",
-        "price": 800
+        "price": 470
     },
     {
         "type": "rare",
-        "price": 1250
+        "price": 1080
     },
     {
         "type": "epic",
-        "price": 3400
+        "price": 4040
     }
 ]
